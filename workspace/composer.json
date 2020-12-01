@@ -1,6 +1,5 @@
 {
   "require": {
-    "hirak/prestissimo": "^0.3.8",
-    "edgedesign/phpqa": "^1.19"
+    "edgedesign/phpqa": "^1.23"
   }
 } 

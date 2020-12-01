@@ -1,4 +1,5 @@
-FROM percona:5.7
+ARG MYSQL_VERSION
+FROM percona:${MYSQL_VERSION}
 
 LABEL maintainer="DTUNES <diegotdai@gmai.com>"
 
